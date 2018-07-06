@@ -1,0 +1,94 @@
+.parent{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+}
+img{
+  width:100%;
+  height:auto;
+}
+body{
+  background-color: yellow;
+}
+.ChildOne
+{
+  width: 30%;
+  padding: 2%;
+  border: 1px solid red;
+  margin: 2%;
+  background-color: black;
+ box-shadow: 9px 9px 9px blue;
+  border-radius: 10px;
+}
+.childTwo{
+  width: 30%;
+  padding: 2%;
+  border: 1px solid #ddd;
+  margin: 2%;
+  background-color:  #008080;
+}
+  .childThree{
+    width: 30%;
+    padding: 2%;
+    border: 1px solid #ddd;
+    background-color:  #00FFFF;
+
+    margin: 2%;
+}
+  .childFour{
+    width: 30%;
+    padding: 2%;
+    border: 1px solid #ddd;
+
+
+    margin: 2%;
+}
+@media only screen and (min-width:1024px) and (max-width:1550px)
+ {
+   .parent{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+   }
+   body{
+     background-color: skyblue;
+   }
+   .ChildOne
+   {
+     width: 50%;
+     padding: 2%;
+     border: 1px solid violet;
+     margin: 2%;
+     box-shadow: 9px 9px 9px blue;
+     background-color: purple;
+
+     border-radius: 10px;
+     background: #CD5C5C
+   }
+   {
+    <p> text-align: center </p>;
+   }
+   .childTwo{
+     width: 50%;
+     padding: 2%;
+     border: 1px solid #ddd;
+     margin: 2%;
+        background-color: #BFDE26
+   }
+     .childThree{
+       width: 50%;
+       padding: 2%;
+       border: 1px solid #ddd;
+       margin: 2%;
+   }
+
+     .childFour{
+       width: 50%;
+       padding: 2%;
+       border: 1px solid #ddd;
+       margin: 2%;
+       background-color: purple;
+
+   }
+}
