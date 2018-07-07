@@ -1,0 +1,43 @@
+{
+"profile":{
+  "name":"alekhya",
+  "label":"IT",
+  "email":"xyz"
+},
+"career":{
+"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+"education":[
+{
+  "degree":"btech(it)",
+  "institution":"pvpsit",
+  "data":["2016-2020","9.5"]
+
+
+},
+{
+"degree":"12th",
+"data":["2014-2016","98.7%"],
+"institution":"narayana"
+},
+{
+  "degree":"10th",
+  "institution":"suryodaya",
+  "data":["2011-2012","10.0"]
+}
+],
+"skills":[
+  {
+    "title":"Languages known",
+    "content":["C","C++","Java","Python"]
+  },
+  {
+    "title":"DataBases",
+    "content":["MongoDB","Mysql"]
+  },
+  {
+    "title":"Web Technologies",
+    "content":["HTML","CSS"]
+  }
+]
+}
